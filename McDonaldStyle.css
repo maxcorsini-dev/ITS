@@ -1,0 +1,77 @@
+body {
+    margin: 10px;
+}
+
+header {
+    background-color: orange;
+    float: top;
+    height: 50px;
+    width: auto;
+    text-align: center;
+    padding-top: 25px;
+    border-style: solid;
+}
+
+nav {
+    float: inside;
+}
+
+.home {
+    float: left;
+    margin-left: 100px;
+    padding-right: 200px;
+}
+
+.candidatura {
+    float: outside;
+    padding-right: 200px;
+}
+
+.cerca {
+
+    padding: initial;
+}
+
+.invia {
+    float: right;
+    padding-right: 10px;
+}
+
+section \p{
+    padding: 20px;
+         }
+
+aside {
+    background-color: red;
+    float: right;
+    height: 450px;
+    width: 300px;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+section {
+    background-color: pink;
+    height: 450px;
+    width: 1000px;
+    text-align: center;
+    border-style: solid;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: cornflowerblue;
+    float: bottom;
+    height: 50px;
+    width: auto;
+    text-align: center;
+    border-style: solid;
+    padding: 25px;
+    margin-top: 20px;
+}
+
+.registrazione {
+    margin: 20px;
+    padding: 10px;
+}
