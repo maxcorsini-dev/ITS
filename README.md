@@ -22,4 +22,4 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </div>
 <br>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxcorsini-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="maxcorsini-dev" /></div>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cicciobat&show_icons=true&theme=dark&locale=en&layout=compact" alt="maxcorsini-dev" /></p>
